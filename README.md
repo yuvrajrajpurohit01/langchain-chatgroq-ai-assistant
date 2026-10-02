@@ -31,6 +31,9 @@ Set your `GROQ_API_KEY` as an environment variable before running the project.
 python mini_project_1.py
 ```
 
+<img width="1285" height="147" alt="image" src="https://github.com/user-attachments/assets/b55cf9b7-a4e6-4b71-abbc-1e52d85b296d" />
+
+
 Enter your question in the terminal and receive an AI-generated response. Type `exit` to quit.
 
 ## Learning Outcomes
